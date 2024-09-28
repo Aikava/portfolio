@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aikava/portfolio/static/css/main.1551c4d6.css",
-    "main.js": "/Aikava/portfolio/static/js/main.5265dbed.js",
-    "static/js/453.f9963884.chunk.js": "/Aikava/portfolio/static/js/453.f9963884.chunk.js",
-    "index.html": "/Aikava/portfolio/index.html",
-    "main.1551c4d6.css.map": "/Aikava/portfolio/static/css/main.1551c4d6.css.map",
-    "main.5265dbed.js.map": "/Aikava/portfolio/static/js/main.5265dbed.js.map",
-    "453.f9963884.chunk.js.map": "/Aikava/portfolio/static/js/453.f9963884.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.1551c4d6.css",
+    "main.js": "/portfolio/static/js/main.742978e8.js",
+    "static/js/453.f9963884.chunk.js": "/portfolio/static/js/453.f9963884.chunk.js",
+    "index.html": "/portfolio/index.html",
+    "main.1551c4d6.css.map": "/portfolio/static/css/main.1551c4d6.css.map",
+    "main.742978e8.js.map": "/portfolio/static/js/main.742978e8.js.map",
+    "453.f9963884.chunk.js.map": "/portfolio/static/js/453.f9963884.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1551c4d6.css",
-    "static/js/main.5265dbed.js"
+    "static/js/main.742978e8.js"
   ]
 }
